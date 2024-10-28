@@ -280,7 +280,7 @@
 
 let ages = 18.99;
 if (ages <= 18 ) {
-    console.log("you are a minorrrrrr")
+    console.log("you are a minorrrr")
 } else if (ages === 18 ) {
     console.log(`you just became an adult`)
 } else {
@@ -290,8 +290,8 @@ if (ages <= 18 ) {
 
 
 let numberOfCars = 1
-if (numberOfCars>= 20){
-    console.log("You are a very, very big man!")
+if (numberOfCars>= 22){
+    console.log("You are a very, very big woooman!")
 } else if (numberOfCars >= 6) {
     console.log("You are considered a big man.")
 } else if (numberOfCars >=2) {
